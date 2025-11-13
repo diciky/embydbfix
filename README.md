@@ -8,3 +8,4 @@ emby数据库损坏修复
 # 运行脚本前请手动备份数据库 data/library.db
 
 curl -LJO https://raw.githubusercontent.com/diciky/embydbfix/refs/heads/main/embydbfix.sh && chmod +x embydbfix.sh && sudo ./embydbfix.sh --path /vol1/1000/docker/emby/config
+
