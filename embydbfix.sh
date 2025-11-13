@@ -16,7 +16,7 @@
 # =========================================================================================
 
 # 默认变量
-EMBY_DIR=""
+EMBY_DIR="/vol1/1000/docker/emby/config" #这是我飞牛emby数据库的地址
 DB_FILENAME="library.db"
 TABLE_PATTERN='fts_search9(_config|_content|_data|_docsize|_idx)?'
 
